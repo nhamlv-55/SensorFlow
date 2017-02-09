@@ -1,0 +1,4 @@
+CHANGED,C:\Users\levn\Documents\SensorFlow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\javacodegeeks\androidaccelerometerexample\AndroidAccelerometerExample$override.class
+CHANGED,C:\Users\levn\Documents\SensorFlow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\levn\Documents\SensorFlow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\javacodegeeks\androidaccelerometerexample\AndroidAccelerometerExample$2$override.class
+CHANGED,C:\Users\levn\Documents\SensorFlow\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\javacodegeeks\androidaccelerometerexample\AndroidAccelerometerExample$1$override.class
